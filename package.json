@@ -1,0 +1,11 @@
+{
+  "name": "State-Name-Search",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "~4.15.2",
+    "ejs": "~1.0.0",
+    "knex": "^0.13.0",
+    "prompt": "1.0.0",
+    "mysql": "~2.13.0"
+  }
+}
